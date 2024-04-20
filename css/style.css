@@ -1,0 +1,47 @@
+/* Mengatur body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Mengatur bagian header*/
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.content {
+  text-align: center;
+}
+
+/* Mengatur gambar */
+img {
+  max-width: 40%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+/* Mengatur paragraf */
+p {
+  margin-bottom: 20px;
+}
+
+/* Mengatur audio dan video */
+audio, video {
+  margin-bottom: 20px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Mengatur ukuran video */
+video {
+  max-width: 80%;
+  height: auto;
+}
